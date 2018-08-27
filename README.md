@@ -1,13 +1,15 @@
 # Computer Science Internships
 [Summer Research Fellowship Programme (SRPF)](http://web-japps.ias.ac.in:8080/fellowship2018/index.html)
 
-*Application start date:*
+**Application start date:**
 
-Application end date:
+**Application end date:**
 
-Eligibility criteria and Prerequisite documents:
+**Eligibility criteria:**
 
-Tips:
+**Requisite documents:**
+
+**Tips:**
 
 [Adobe research women in technology - Worldwide](https://research.adobe.com/scholarship/)
 Application start date:
