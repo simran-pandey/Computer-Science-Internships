@@ -16,15 +16,15 @@
 
 (e) Not have a close relative working for Adobe Research.
 
-**Requisite documents:** (a) A resume
+**Requisite documents:** (a) A resume.
 
-(b) Academic transcripts from your current and/or past institution
+(b) Academic transcripts from your current and/or past institution.
 
-(c) Three references (our online application system will request letters from your references via email)
+(c) Three references (our online application system will request letters from your references via email).
 
-(d) Answers to up to four essay questions, which will be available when we start accepting applications
+(d) Answers to up to four essay questions, which will be available when we start accepting applications.
 
-(e) An optional 60-second video or multimedia submission describing your dream career
+(e) An optional 60-second video or multimedia submission describing your dream career.
 
 **Tips:**
 
@@ -34,21 +34,21 @@
 
 **Application end date:** October 14th, 2018
 
-**Eligibility criteria:** (a) Be an Indian female citizen student
+**Eligibility criteria:** (a) Be an Indian female citizen student.
 
 (b) Must be enrolled as a full time student in a formal technology 4 year BE / B.Tech education program or an Integrated ME/MS/MTech program at an Indian University or Institute at the time of applying and should be completing the program in Academic year 2019-20.
 
-(c) Should be pursuing a Major or Minor in the following streams: Computer Science/Engineering, Information Science, Data Science, Electrical/Electronics Engineering, Math and Computing
+(c) Should be pursuing a Major or Minor in the following streams: Computer Science/Engineering, Information Science, Data Science, Electrical/Electronics Engineering, Math and Computing.
 
 (d) May apply to ONLY ONE of the following two Scholarships – Adobe India Women In Technology Scholarship OR the Adobe Global Women In Technology Scholarship.
 
-**Requisite documents:** (a) Expect to answer short essay type questions
+**Requisite documents:** (a) Expect to answer short essay type questions.
 
-(b) Resume
+(b) Resume.
 
-(c) Letter of Recommendation from a Professor
+(c) Letter of Recommendation from a Professor.
 
-(d) Academic transcripts from your current and past institutions
+(d) Academic transcripts from your current and past institutions.
 
 (e) More details will be posted on the portal.
 
@@ -61,9 +61,9 @@
 
 **Eligibility criteria:** students from all universities and colleges affiliated to UGC/AICTE/MCI/Accredited Institutions of State Universities
 
-**Requisite documents:** (a) The application form in the prescribed format;
+**Requisite documents:** (a) The application form in the prescribed format.
 
-(b) Scanned copies of marks sheets from class X till the last examination; 
+(b) Scanned copies of marks sheets from class X till the last examination. 
 
 (c) A write-up (in about 150-250 words) as to what the applicant wants to learn and achieve. 
 
@@ -112,7 +112,7 @@ Outreachy is open to both students and people who are not students. However, app
 
 **Eligibility criteria:** (a) All people with non-binary gender identities or who identify as women (transgender or cisgender) are welcome to apply. 
 
-(b) Aside from this main requirement, we look for applicants
+(b) Aside from this main requirement, we look for applicants.
 
 (c) Who are involved with or have attended one or more workshops organized by communities like Rails Girls, Railsbridge, Black Girls Code, PyLadies, or similar initiatives.
 
@@ -128,13 +128,13 @@ Outreachy is open to both students and people who are not students. However, app
 
 **Requisite documents/Application process:** (a) Community involvement is important. 
 
-(b) knowledge of some basic concepts and practices is an advantage.
+(b) Knowledge of some basic concepts and practices is an advantage.
 
-(c) Concise code examples 
+(c) Concise code examples from previous projects. 
 
-(d) share your prior accomplishments. 
+(d) Share your prior accomplishments. 
 
-(e) having local coaches for strong local support
+(e) Having local coaches for strong local support.
 
 **Tips:**
 
