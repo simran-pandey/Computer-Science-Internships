@@ -2,7 +2,7 @@
 
 [Adobe research women in technology - Worldwide](https://research.adobe.com/scholarship/)
 
-**Application start date:** Live
+**Application start date:** Live now
 
 **Application end date:** September 28th, 2018 at 5pm Pacific Time
 
